@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Jamilya"
+  image = "мерс.jpg"
+  headline = "Wussup"
+  bio = "Привет! Меня зовут Нуриева Джамиля, я студентка 2 курса Института информационных технологий и технологического образования"
+  imageQuality = 96
+  links = [
+    { email = "mailto:mati.nurieva@mail.ru" },
+    { github = "https://github.com/jamanuriyeva" },
+    { gitlab = "https://git.herzen.spb.ru/1147332" },
+    
+  ]
